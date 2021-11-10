@@ -1,0 +1,119 @@
+#Yellowbox {
+  float: left;
+  background: yellow;
+  width: 33%;
+  height: 170px;
+}
+
+#Yellowbox p {
+  position: relative;
+  top: 40%;
+  left: 45%;
+}
+
+#Redbox {
+  float: left;
+  background: red;
+  width: 33%;
+  height: 170px;
+}
+
+#Redbox p {
+  position: relative;
+  top: 40%;
+  left: 45%;
+}
+
+#Bluebox {
+  float: left;
+  background: Blue;
+  width: 34%;
+  height: 170px;
+}
+#Bluebox p {
+  position: relative;
+  top: 40%;
+  left: 45%;
+}
+
+#Greenbox {
+  float: left;
+  background: seagreen;
+  width: 33%;
+  height: 170px;
+}
+
+#Greenbox p {
+  position: relative;
+  top: 40%;
+  left: 45%;
+  color: #808080;
+}
+
+#Whitebox {
+  float: left;
+  background: mediumseagreen;
+  width: 33%;
+  height: 170px;
+}
+
+#Whitebox p {
+  position: relative;
+  left: 43%;
+  inline-size: 150px;
+  overflow-wrap: break-word;
+  font-size: 12px;
+  top: 15%;
+}
+
+#Purplebox {
+  float: left;
+  background: purple;
+  width: 34%;
+  height: 170px;
+}
+
+#Purplebox p {
+  position: relative;
+  top: 40%;
+  left: 45%;
+}
+
+#Greybox {
+  float: left;
+  background: grey;
+  width: 33%;
+  height: 170px;
+}
+
+#Greybox p {
+  position: relative;
+  top: 40%;
+  left: 45%;
+}
+
+#Pinkbox {
+  float: left;
+  background: pink;
+  width: 33%;
+  height: 170px;
+}
+
+#Pinkbox p {
+  position: relative;
+  top: 40%;
+  left: 45%;
+}
+
+#Orangebox {
+  float: left;
+  background: orange;
+  width: 34%;
+  height: 170px;
+}
+
+#Orangebox p {
+  position: relative;
+  top: 40%;
+  left: 45%;
+}

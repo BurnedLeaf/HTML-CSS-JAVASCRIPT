@@ -1,0 +1,37 @@
+img.Tiger {
+  width: 300px;
+  height: 300px;
+  border-radius: 30px;
+  position: absolute;
+  left: 90px;
+}
+
+#link {
+  position: relative;
+  top: 275px;
+}
+h4 {
+  font-size: 80px;
+  color: darkgreen;
+}
+
+h1 {
+  color: green;
+}
+
+h2 {
+  color: red;
+}
+
+p {
+  color: blue;
+}
+
+h3 {
+  font-size: 25px;
+  color: darkblue;
+}
+h5 {
+  font-size: 20px;
+  color: lightgreen;
+}

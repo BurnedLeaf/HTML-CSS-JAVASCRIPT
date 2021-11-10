@@ -1,0 +1,83 @@
+#Volledig {
+  position: relative;
+  left: 40px;
+  bottom: 10px;
+}
+
+img.Lion {
+  width: 225px;
+  height: 175px;
+  position: relative;
+  bottom: 20px;
+
+  border: 5px solid black;
+  border-width: 7px;
+  padding: 125px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+#Linkertext {
+  position: relative;
+  bottom: 50px;
+  margin-bottom: 0px;
+}
+
+h1 {
+  color: forestgreen;
+  margin: 0;
+}
+h2 {
+  color: red;
+  margin: 0;
+}
+
+p1 {
+  margin: 0px;
+  color: limegreen;
+}
+h3 {
+  color: green;
+  margin: 0px;
+}
+
+#line {
+  position: absolute;
+  right: 175px;
+}
+
+#Righttext {
+  position: relative;
+  left: 950px;
+  bottom: 650px;
+  color: limegreen;
+}
+
+#textkop {
+  display: flex;
+  width: 13%;
+}
+
+#spatietekst {
+  display: block;
+}
+
+.Author {
+  position: relative;
+  left: 40px;
+}
+
+img.Roar2 {
+  position: relative;
+  width: 240px;
+  height: 120px;
+  left: 525px;
+  bottom: 50px;
+  border-radius: 50%;
+}
+
+.He34 {
+  position: relative;
+  left: 1100px;
+  bottom: 150px;
+}
