@@ -1,0 +1,32 @@
+.tijger {
+  position: relative;
+  left: 470px;
+  top: 250px;
+}
+
+h1 {
+  position: relative;
+  left: 890px;
+  top: 60px;
+}
+
+p1 {
+  position: relative;
+  float: right;
+  right: 420px;
+  top: 60px;
+  width: 300px;
+}
+
+.link {
+  position: relative;
+  left: 800px;
+  top: 175px;
+  text-decoration: none;
+  color: black;
+  border-radius: 100px;
+  border: 1px solid black;
+  padding: 15px 40px;
+  display: inline-block;
+  background: rgb(223, 194, 113);
+}

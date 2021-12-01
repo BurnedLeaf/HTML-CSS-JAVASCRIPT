@@ -1,0 +1,11 @@
+#link1 {
+  color: darkblue;
+}
+
+#link2 {
+  color: green;
+}
+
+#link2 a {
+  text-decoration: none;
+}

@@ -1,0 +1,22 @@
+img.Mountains {
+  position: relative;
+  width: 1000px;
+  height: 500px;
+}
+
+#Container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+#Text {
+  position: absolute;
+  bottom: 5px;
+  left: 1060px;
+  background: green;
+  width: 200px;
+  height: 80px;
+  color: greenyellow;
+  display: inline-block;
+}

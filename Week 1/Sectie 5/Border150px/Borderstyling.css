@@ -1,0 +1,10 @@
+#Border {
+  background: red;
+  width: 150px;
+  height: 150px;
+  position: relative;
+  left: 45%;
+}
+
+p {
+}

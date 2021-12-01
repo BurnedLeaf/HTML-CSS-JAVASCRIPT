@@ -1,0 +1,36 @@
+.Container {
+  display: flex;
+  height: 250px;
+}
+
+.Container > * {
+  flex-basis: 25%;
+}
+.Foto1,
+.Foto2,
+.Foto3 {
+  background-image: url("/Sectie 5/Foto interaction/stad1.JPG");
+
+  background-size: cover;
+}
+
+.Foto4 {
+  background-image: url("/Sectie 5/Foto interaction/stad2.JPG");
+  background-size: 100%;
+}
+
+.Container2 {
+  display: flex;
+  height: 250px;
+}
+.Container2 > * {
+  flex-basis: 25%;
+}
+
+.Foto5,
+.Foto6,
+.Foto7 {
+  background-image: url("/Sectie 5/Foto interaction/stad1.JPG");
+
+  background-size: cover;
+}

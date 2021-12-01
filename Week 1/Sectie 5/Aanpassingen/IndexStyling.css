@@ -1,0 +1,120 @@
+#Green {
+  float: left;
+  width: 11%;
+  height: 30px;
+  background: green;
+}
+
+#Green p {
+  position: relative;
+  text-align: center;
+  bottom: 10px;
+}
+#Yellow {
+  float: left;
+  margin-left: 10px;
+  width: 11%;
+  height: 30px;
+  background: yellow;
+}
+
+#Yellow p {
+  position: relative;
+  text-align: center;
+  bottom: 10px;
+}
+
+#Red {
+  float: left;
+  width: 11%;
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 30px;
+  background: red;
+}
+
+#Red p {
+  position: relative;
+  text-align: center;
+  bottom: 10px;
+}
+
+#Blue {
+  float: left;
+  width: 11%;
+  margin-right: 10px;
+  height: 30px;
+  background: blue;
+}
+
+#Blue p {
+  position: relative;
+  text-align: center;
+  bottom: 10px;
+}
+/*
+body {
+  background: blue;
+}
+@media all and (max-width: 750px) {
+  body {
+    background: purple;
+  }
+}
+*/
+@media (min-width: 1025px) and (max-width: 1439px) {
+  #Green {
+    width: 20%;
+    margin-bottom: 10px;
+  }
+  #Yellow {
+    width: 20%;
+    margin-bottom: 10px;
+  }
+  #Red {
+    width: 20%;
+    margin-bottom: 10px;
+  }
+  #Blue {
+    width: 20%;
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 1024px) {
+  #Green {
+    width: 30%;
+    margin-bottom: 10px;
+  }
+  #Yellow {
+    width: 30%;
+    margin-bottom: 10px;
+  }
+  #Red {
+    width: 30%;
+    margin-bottom: 10px;
+  }
+  #Blue {
+    width: 30%;
+    margin-bottom: 10px;
+  }
+}
+
+@media all and (max-width: 768px) {
+  #Green {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  #Yellow {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  #Red {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  #Blue {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}
