@@ -1,0 +1,9 @@
+body {
+  background-color: salmon;
+}
+
+@media (max-aspect-ratio: 13/10) and (max-width: 1024px) {
+  body {
+    background-color: green;
+  }
+}
